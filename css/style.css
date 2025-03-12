@@ -1,19 +1,5 @@
-body { 
-    font-family: Arial, sans-serif; 
-    background-color: aliceblue;
-}
+body { font-family: Arial, sans-serif; }
 
-h1 { 
-    text-align: center; 
-    border-bottom: solid 4px;
-}
+h1 { text-align: center; }
 
-h2 { 
-    color: red; 
-    text-transform: uppercase;
-}
-
-hr {
-    width: 50%;
-    margin: auto;
-}
+h2 { color: red; }
